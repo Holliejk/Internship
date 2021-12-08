@@ -1,0 +1,38 @@
+body { 
+    font-family: sans-serif;
+}
+
+.heading {
+    display: flex;
+    background-color: darkgrey;
+    justify-content:center;
+    font-size: 150%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 125%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    
+}
+
+.image {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5%;
+    width: 100%;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+}
